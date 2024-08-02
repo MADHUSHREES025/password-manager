@@ -1,1 +1,1 @@
-# password-manager
+A password manager is a piece of software designed to assist users in creating, storing, and managing secure passwords across many accounts. Enhancing overall cybersecurity, it handles user registration, authentication, password generation, storage, autofill, synchronization, and security features like biometric logins, two-factor authentication, and breach monitoring.
